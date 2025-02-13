@@ -1,0 +1,28 @@
+# Git and GitHub - SuperSimpleDev
+
+This repository contains the files and code that I’ve learned from the <i>SuperSimpleDev</i> videos on Git and GitHub. The videos helped me build a solid foundation in using Git and GitHub for version control and collaboration.
+
+## What I learnt
+
+I have learn following concepts from SuperSimpleDev's videos:
+
+- Git Installation: Installing and configuring Git on my local machine.
+- Git Command Lines: 
+  - `git init` – Initializing a new Git repository.
+  - `git add` – Staging changes for commit.
+  - `git commit` – Committing changes to the local repository.
+  - `git push` – Pushing changes to a remote repository.
+  - `git pull` – Pulling changes from a remote repository.
+  - `git merge` – Merging branches to combine changes.
+  - `git remote` – Managing remote repositories.
+  - `git fetch` – Fetching changes from a remote without merging.
+- Connecting Local and Online Git Repos: How to connect a local repository to an online GitHub repository and sync changes.
+- Git Clone: Cloning a repository from GitHub to my local machine to work on it.
+
+## Installation
+
+To clone this repository and start working with the files:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/abdulboriyx/github-learn.git
